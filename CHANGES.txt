@@ -1,29 +1,18 @@
 
+August 26th, 2023
+FAN UPDATE
+* Fixed some lua errors.
+
+August 25th, 2023
+FAN UPDATE
+Author - The Genome Whisperer (Arkaan - Guild Roster Manager creator)
+-- Some additional lua error fixes.
+
 August 24th, 2023
 FAN UPDATE
 Author - The Genome Whisperer (Arkaan - Guild Roster Manager creator)
 -- Compatibility with Classic Era Hardcore
 
-
-lightweight tag 8c570f8c042b712c01fc96faa4b8c0894dc405ca v.64
-Author:	GitHub <noreply@github.com>
-Date:	Wed Oct 21 10:22:53 2020 -0700
-
-commit 988b5d88100c1704ae20200172f94a1043ef1622
-Author: Pete Rowley <pete-git@openrowley.com>
-Date:   Wed Oct 21 10:21:03 2020 -0700
-
-    bump versions
-
-commit 988b5d88100c1704ae20200172f94a1043ef1622
-Author: Pete Rowley <pete-git@openrowley.com>
-Date:   Wed Oct 21 10:21:03 2020 -0700
-
-    bump versions
-
-commit c6b29af32fd6a4f148e3504de1cb4770a210e8e6
-Author: Pete Rowley <pete-git@openrowley.com>
-Date:   Wed Oct 21 10:20:30 2020 -0700
 
     Features
     
