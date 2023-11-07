@@ -1,4 +1,8 @@
 
+November 7th, 2023
+FAN UPDATE 
+  * Classic Build Compatibility Wrath
+
 August 26th, 2023
 FAN UPDATE
 * Fixed some lua errors.
